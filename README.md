@@ -1,11 +1,11 @@
-# Matebook-D15 2021 OpenCore Hackintosh  
+# Matebook-D15 2020 OpenCore Hackintosh  
 **Run Apple's MacOS on HUAWEI MateBook series laptop stably and almost perfectly**
 
 ```
- This project supports 2021 version Matebook D15 (Intel version only)
+ This project supports 2020 version Matebook D15 (Intel version only)
 ```
 
-Report & Feedback：[![issue](https://img.shields.io/github/issues/goodbyepavlyi/Matebook-D15-2021-Hackintosh?style=plastic)](https://github.com/goodbyepavlyi/Matebook-D15-2021-Hackintosh/issues)  
+Report & Feedback：[![issue](https://img.shields.io/github/issues/goodbyepavlyi/Matebook-D15-2020-Hackintosh?style=plastic)](https://github.com/goodbyepavlyi/Matebook-D15-2020-Hackintosh/issues)  
 
 ## Update log:  
 
